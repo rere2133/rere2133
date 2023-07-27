@@ -16,4 +16,4 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ---
-![](https://raw.githubusercontent.com/rere2133/rere2133/main/profile-summary-card-output/default/0-profile-details.svg)
+![](https://raw.githubusercontent.com/rere2133/rere2133/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
