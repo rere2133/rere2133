@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-<!--
-**rere2133/rere2133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+- 🔭 I’m currently working on Nuxt3 project
+- 🌱 I’m currently learning React, Unit Test and Tailwind CSS
+- 🤔 I’m looking for a job opportunity
+- 💬 Ask me about anything
+- 📫 How to reach me: reckie2133@gmail.com
+- ⚡ Fun fact: I love playing sqaush
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+![](https://raw.githubusercontent.com/rere2133/rere2133/main/profile-summary-card-output/tokyonight/3-stats.svg)
+![](https://raw.githubusercontent.com/rere2133/rere2133/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/rere2133/rere2133/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
