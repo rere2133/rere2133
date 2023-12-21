@@ -2,7 +2,7 @@
 
 ```
 - 🔭 I’m currently working on Nuxt3 project
-- 🌱 I’m currently learning React, Unit Test and Tailwind CSS
+- 🌱 I’m currently learning Typescript, canvas
 - 🤔 I’m looking for a job opportunity
 - 💬 Ask me about anything
 - 📫 How to reach me: reckie2133@gmail.com
